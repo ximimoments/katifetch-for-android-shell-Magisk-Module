@@ -27,7 +27,7 @@ Katifetch is on magisk/ksu module where show your android info, like neofetch an
 
 <img src="https://github.com/user-attachments/assets/f7a97ce2-f3c4-4c8c-a68f-5a69d879e470" width="300">
 
-## Click on the zip file ( if don't have the zip file: https://github.com/ximimoments/katifetch-for-android-shell-Magisk-Module/releases/download/Katifetch-for-android-shell-module/katifetch-magisk.zip )
+## Click on the zip file ( if don't have the zip file: https://github.com/ximimoments/katifetch-for-android-shell-Magisk-Module/releases/download/Katifetch-for-android-shell-module-1.2/katifetch-magisk.zip )
 
 <img width="300" alt="Screenshot_20260330-212332_Files" src="https://github.com/user-attachments/assets/068d69c6-5223-43a4-8456-e1351705fa1d" />
 
