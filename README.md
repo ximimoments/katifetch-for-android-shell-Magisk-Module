@@ -63,11 +63,14 @@ Katifetch is on magisk/ksu module where show your android info, like neofetch an
 ## When is remove you have to back to home
 <img width="300" alt="Screenshot_20260330-213159_Magisk" src="https://github.com/user-attachments/assets/5d76d9d8-aacd-4a79-9d8c-beecc9282b0a" />
 
-## On home is requiere to reboot the system to make chage
-<img width="300" alt="Screenshot_20260330-213159_Magisk" src="https://github.com/user-attachments/assets/4cbacfeb-a277-46f8-9f8f-757c03a2f961" />
+## On home is requiere to reboot the system to make change
+<img width="300" alt="Screenshot_20260330-213207_Magisk" src="https://github.com/user-attachments/assets/df138bf2-ddf3-480a-afab-9a736f63b4b4" />
+
 
 # 🔄 Update
 
 ## Same thing how to install intruction but you have to install again the .zip
+
+- Work on anything android, katifetch for android shell work on firmware stock, custom rom, gsi and old and new android version!
 
 # And enjoy using Katifetch on Android shell with modules!
