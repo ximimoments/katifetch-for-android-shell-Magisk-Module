@@ -11,7 +11,7 @@ Katifetch is on magisk/ksu module where show your android info, like neofetch an
 
 - Root
 - Magisk or ksu (kernel su)
-- For the terminal use termux with command "su" or for pc "adb shell"
+- For the terminal use termux with command "su" or for pc "adb shell" and then "su"
 - the zip file
 
 # 📦 Install
